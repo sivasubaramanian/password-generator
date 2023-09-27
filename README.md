@@ -8,7 +8,7 @@ Utilizes Java Servlets for server-side processing.
 Demonstrates handling of user input validation and error messages.
 Outputs the generated password to a result page.
 Getting Started
-To run this web application locally or deploy it on a web server, follow these steps:
+To run this web application locally or deploy it on a web server.
 
 
 
